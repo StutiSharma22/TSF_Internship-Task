@@ -11,3 +11,4 @@ To Predict: What will be predicted score if a student studies for 9.25 hrs/ day?
 Language:Python
 Tool: Jupyter
 DataSet: http://bit.ly/w-data
+Video: https://youtu.be/k9xgWsRM2pI
